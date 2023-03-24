@@ -8,7 +8,7 @@ This project changes the background colors by clicking on the relative buttons.
 
 I used minimal HTML, mainly focused on CSS and JavaScript.
 
-One of the challenges I faced while writing the code was working with constructors.
+Some of the challenges I faced while writing the code were working with constructors and trying out TypeScript.
 
 ## To run the project
 
